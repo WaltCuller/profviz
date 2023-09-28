@@ -1,4 +1,4 @@
 
 
 build:
-	go build -o ./target/profviz -x -pgo ./target/default.pgo ./cmd/main.go
+	go build -o ./target/profviz -x ./target/default.pgo ./cmd/main.go
